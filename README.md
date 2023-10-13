@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Nishit Padia and I'm a Engineering student, from Gujarat,India.</p>
+<p align="left">My name is Nishit Padia and I'm an Engineering student, from Gujarat,India.</p>
 
 ###
 
